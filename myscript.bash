@@ -1,3 +1,4 @@
 #!/bin/bash
 echo "Hello World"
-sudo git checkout master
+git checkout master
+git pull
